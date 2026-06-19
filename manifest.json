@@ -1,4 +1,4 @@
-﻿{
+{
   "Author": "nghiango1",
   "Description": "A simple enchancement for game controls that allow player move your Farmmer by Mouse",
   "EntryDll": "MouseMoveMode.dll",
